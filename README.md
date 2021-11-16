@@ -1,11 +1,2 @@
-#### React Router Fix
+check out my app here- https://cocktail-setup-abhishek.netlify.app
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
